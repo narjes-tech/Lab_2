@@ -1,4 +1,4 @@
-هذا هو الكود # Step 1: Import Pandas
+# Step 1: Import Pandas
 import pandas as pd
 
 # Step 2: Load the dataset
